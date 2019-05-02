@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "tape": "^4.10.1"
+  },
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "jwk-lite": "^0.1.2",
+    "jwk-to-pem": "^2.0.1",
+    "ramda": "^0.26.1",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "test": "tape test"
+  }
+}
